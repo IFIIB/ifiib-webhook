@@ -39,7 +39,7 @@ hook.send({
 ## Embeds
 ```js
 hook.send({
-    "content": "Hello world !"
+    "content": "Hello world !",
     "embeds": [
         {
             "title": "My awesome embed !",
