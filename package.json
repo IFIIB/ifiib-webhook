@@ -1,0 +1,31 @@
+{
+    "name": "@ifiib/webhook",
+    "version": "1.0.0",
+    "description": "Simple discord webhook client",
+    "main": "lib/es5/index.js",
+    "module": "lib/es6/index.js",
+    "sideEffects": false,
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/monsterlessonsacademy/utils.git"
+    },
+    "files": [
+      "lib",
+      "CHANGELOG.md",
+      "LICENSE",
+      "package.json",
+      "README.md"
+    ],
+    "keywords": [
+      "javascript",
+      "webhook",
+      "discord",
+      "typescript"
+    ],
+    "author": "Ifiib company",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/IFIIB/ifiib-webhook/utils/issues"
+    },
+    "homepage": "https://github.com/IFIIB/ifiib-webhook/utils#readme"
+  }
